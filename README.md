@@ -2,9 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=B-Maxp&color=72b7c0&style=flat&label=Profile+Views" alt="Profile Views">
 </p>
 
-<h1>👋 Bonjour, je suis Maxence !</h1>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Bonjour&customColorList=21&section=header&textBg=false&fontColor=d3b692&desc=Je%20suis%20Maxence%20un%20futur%20developpeur&animation=fadeIn&descAlign=57&descSize=20&fontAlign=35&fontAlignY=45&fontSize=70&reversal=false&descAlignY=70"
+    >  
+</p>
 
-<h3>🎯 Développeur web junior en reconversion
+<h3 >🎯 Développeur web junior en reconversion
   <br/>
 💡 Actuellement en formation à la Wild Code School
   <br/>
@@ -19,7 +23,7 @@ J’apprends vite, je suis curieux, rigoureux, et je développe tous les jours p
 ## 💻 Tech Stack:
 <h3 align="center">Front-end 🖥️ 🖌️<h3/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,javascript,typescript,git,npm,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,git,npm,vite" />
 </p>
 
 <h3 align="center">Back-end ⛓️ ⚙️<h3/>
@@ -47,7 +51,7 @@ J’apprends vite, je suis curieux, rigoureux, et je développe tous les jours p
   <img src="https://nirzak-streak-stats.vercel.app/?user=B-Maxp&theme=noctis_minimus&hide_border=true&border_radius=16"/>
   <img src="https://github-readme-stats.vercel.app/api?username=B-Maxp&bg_color=1b2932&title_color=d3b692&text_color=c4cdd3&icon_color=72b7c0&hide_border=true&border_radius=16&custom_title=My%20GitHub%20Stats&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Maxp&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false&layout=donut&border_radius=16"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Maxp&theme=noctis_minimus&card_width=300&hide_border=true&include_all_commits=true&count_private=false&layout=donut&border_radius=16"/>
 </p>
 
 <p align="center">
