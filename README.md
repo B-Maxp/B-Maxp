@@ -49,7 +49,7 @@ J’apprends vite, je suis curieux, rigoureux, et je développe tous les jours p
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=d3b692&text=Maxence&section=header&textBg=false&fontColor=72b7c0&desc=Developpeur&animation=fadeIn&descAlign=41&descSize=22&fontAlign=50&fontSize=68&reversal=false&descAlignY=62">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=1b2932&text=Maxence&section=header&textBg=false&fontColor=d3b692&desc=Developpeur&animation=fadeIn&descAlign=41&descSize=22&fontAlign=50&fontSize=68&reversal=false&descAlignY=62">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=1b2932&text=Maxence&section=header&textBg=false&fontColor=72b7c0&desc=Developpeur&animation=fadeIn&descAlign=41&descSize=22&fontAlign=50&fontSize=68&reversal=false&descAlignY=62"/>
 </picture>
 </p>
