@@ -42,11 +42,10 @@ J’apprends vite, je suis curieux, rigoureux, et je développe tous les jours p
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=B-Maxp&theme=noctis_minimus&hide_border=true&border_radius=16"/>
   <img src="https://github-readme-stats.vercel.app/api?username=B-Maxp&bg_color=1b2932&title_color=d3b692&text_color=c4cdd3&icon_color=72b7c0&hide_border=true&border_radius=16&custom_title=My%20GitHub%20Stats&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Maxp&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false&layout=donut&border_radius=16"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=1b2932&text=Maxence&section=header&textBg=false&fontColor=72b7c0&desc=Developpeur&animation=fadeIn&descAlign=41&descSize=22&fontAlign=50&fontSize=68&reversal=false&descAlignY=62"/>
-</p>
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=1b2932&text=Maxence&section=header&textBg=false&fontColor=d3b692&desc=Developpeur&animation=fadeIn&descAlign=41&descSize=22&fontAlign=50&fontSize=68&reversal=false&descAlignY=62">
