@@ -23,7 +23,7 @@ J’apprends vite, je suis curieux, rigoureux, et je développe tous les jours p
 ## 💻 Tech Stack:
 <h3 align="center">Front-end 🖥️ 🖌️<h3/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,git,npm,vite" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,git,html,css,npm,vite,jest" />
 </p>
 
 <h3 align="center">Back-end ⛓️ ⚙️<h3/>
@@ -33,7 +33,7 @@ J’apprends vite, je suis curieux, rigoureux, et je développe tous les jours p
 
 <h3 align="center">Tools 🛠️<h3/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,github,notion" />
 </p>
 
 ## 🌐 Socials:
